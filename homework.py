@@ -7,6 +7,7 @@ import random
 # Create an instance of tkinter frame
 win= Tk()
 
+win.title('OTP')
 # Set the size of the tkinter window
 win.geometry("300x200")
 
