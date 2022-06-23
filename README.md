@@ -1,2 +1,2 @@
-# Onetime passor generator in tkinter
+# Onetime password generator in tkinter
  It is developed using tkinter framework of python. Onetime password (OTP) can be generated using the project
